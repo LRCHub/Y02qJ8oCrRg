@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未恋",
+  "base_artist": "チョーキューメイ",
+  "createdAt": "2026-01-01T12:50:26.678940Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未恋",
+      "artist": "チョーキューメイ",
+      "has_synced": false,
+      "path": "select/pl_01_未恋_チョーキューメイ.txt"
+    }
+  ]
+}
